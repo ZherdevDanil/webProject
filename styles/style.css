@@ -267,7 +267,7 @@ button.btn:hover {
   background-color: #24693d;
 } 
 
-@media screen and (max-width: 768px) {
+@media (min-width: 344px) and (max-width: 767px){
   .header{
     height: auto;
   }
